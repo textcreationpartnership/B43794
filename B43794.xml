@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons most humbly offer'd to the right honourable the Commons in Parliament assembled against the vote of this House of the 17th of December last, whereby it is ordered, that leave be given to bring in a bill for the quieting the subject against all pretences of concealment whatsoever.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43794</idno><idno type="EEBO-CITATION">489265444</idno>
+  <idno type="VID">208695</idno>
+  <idno type="EEBO-PROQUEST">2248522285</idno>
+  
+            <idno type="OCLC"> 489265444</idno>
+            <idno type="OCLC">ocn 489265444</idno>
+            <idno type="STC">Wing R570D</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43794)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208695)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons most humbly offer'd to the right honourable the Commons in Parliament assembled against the vote of this House of the 17th of December last, whereby it is ordered, that leave be given to bring in a bill for the quieting the subject against all pretences of concealment whatsoever.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prerogative, Royal --  England --  Early works to 1800.</term>
+               <term type="topical_term">Crown lands --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:208695:1"/>
+            <pb facs="tcp:208695:2"/>
+            <head>
+               <hi>REASONS</hi> most humbly offer'd to the Right Honourable the <hi>Commons</hi> in <hi>Parliament</hi> Assembled, against the Vote of this House of the <hi>17th</hi> of <hi>December</hi> last, whereby it is Ordered, That Leave be given to bring in a Bill for the quieting the Subject against all Pretences of Concealment whatsoever.</head>
+            <p n="1">I. COncealments from the Crown are various, as of Crown-lands, Debts justly due and owing to the Crown, from Receivers of the Revenue, or from Sheriffs, and others who have not made up their Accounts, and payed in what is due thereupon; or from Treasurers, and Receivers of the Excise, Cu<g ref="char:EOLhyphen"/>stoms, <hi>&amp;c.</hi> Or in Concealing the King's Stores, and many such like things, which (without doubt) are and have been unjustly and wrongfully Detained, Concealed, and Smugled from the Crown, the which is an apparent Detriment to the Crown, as well as to the Subject.</p>
+            <p n="2">II. Now this Bill for quieting the Subject against all pretences of Concealment whatsoever, seems to strike at the whole, and under the specious pretence of quieting the Subject, is nothing less than to wrong the Crown.</p>
+            <p n="3">III. With humble Submission, as to Land Concealed from the Crown, the Case is thus, most or all of these Lands, were in Possession of the Crown, in the Reign of the late King <hi>Charles</hi> I. and most or all of the Rents received thereupon, were (then) duly Answered and Payed for the same, as by the Ministerial Accounts, in his said Majesties Reign appears; but it so happened, that the Civil Wars in <hi>England</hi> ensued, and then the Rights of the Crown were totally Invaded, and at his late Majesty King <hi>Charles</hi> II. his Restauration, and Accession to the Crown, these Lands or most of them, were then given in Charge to the respective Receivers, (among other the Revenue of the Crown) to Levy and Collect.</p>
+            <p n="4">IV. That about the 14th Year of the Reign of his said late Majesty King <hi>Charles</hi> II. when Sir <hi>Anthony Ashley Cooper</hi> was President of the Council, and Chancellour of the Exchequer; a Petition was then Presented to the (then) King in Council, by the (then) Auditors and Receivers of the said Revenue, suggesting that the Receivers Accounts of the Land Revenue were very long, and that the <hi>Supers</hi> were very many, and that they were most or all of them lost, and past finding out, and were a needless burthen upon the Receivers Accounts; and praying that for some such Reasons, these Lands and Rents might for the future be struck out of the Re<g ref="char:EOLhyphen"/>ceivers Accounts; it was Ordered accordingly, and the same Lands and Rents, were supered in certain Books, in each respective Auditors Office, Entituled <hi>Liber' Arrerag',</hi> whereby from that time to this, the same have lain Dormant, and by that means are become Concealments: whereas had they been given in Charge to the Messengers to Levy and Collect, The same, or the greatest part of them, might have been Recovered and Re<g ref="char:EOLhyphen"/>ceived, they being the same, and as equally the Right of the Crown, as the other Rents and Estates pertain<g ref="char:EOLhyphen"/>ing to the Crown are, and all payable out of visible Lands and Estates, which cannot be removed but (perchance) by this long Delay and Neglect, not so easily found out as the others are, they being all Estates either Grant<g ref="char:EOLhyphen"/>ed from the Crown, by long Leases; or under certain Fee-Farm, or other Rents, which is presumed, were not Sold away from the Crown, when the Fee-Farm Rents were Sold, for that they were supered in these Books, long before the Sale of the Fee-Farm Rents; and indeed, the Fee-Farm Rents are the least of these Concealments. This is Plain and Matter of Fact.</p>
+            <p>That by the Promoters of the Bill, their own shewing there are Concealments; and if so, why should not the Crown have its Right, as well as the Subjects theirs? and with most humble Submission, it is humbly Conceived, that Crown Lands were ever intended for the Support of the Honour and Dignity of the Crown, as well as for Defraying the Charges of the Civil List, as other Accidental and Contingent Charges. And to Diminish the Revenue, under the specious pretence of Quieting the Subject, with humble Submission is a pretty kind of Contrivance of the Promoters of this Bill, who may reasonably be supposed, to have part of these Concealments in their Hands, and so would quiet the Possession in their own Hands, by Wronging and Defrauding the Crown of its just Right.</p>
+            <p n="5">V. That besides these Concealments, there are other Concealed Estates, which of Right pertain to the Crown, as Direlict Lands, and Lands Escheated and Forfeited to the Crown, by Attainder for high Treason, and other<g ref="char:EOLhyphen"/>wise; and with most Humble Submission, their Estates ought likewise to be Inspected into, so that the Crown therein ought to have its Right; and then if the Crown had its Right herein, and the Receivers of the Land Revenue, Sheriffs and others, who have not made up their Accounts, and fully payed what is Due thereupon, and the Treasurers, and Receivers of the Customs, and Excise, <hi>&amp;c.</hi> likewise make up their Accounts, and fully pay what is Due thereupon, and the Concealments of his Majesties Stores, and the Debts due to the Crown, be Accounted for and payed, and the Revenue in General be Inspected into, then with most humble Submission it is Conceived, the Crown would not want so much Money as now it doth, to Support its Gran<g ref="char:EOLhyphen"/>dure, nor need the Subjects be so grievously Taxed as now they are.</p>
+            <p n="6">VI. That in the glorious and Memorable Reign of Queen <hi>Elizabeth,</hi> the Government was tormented and perplex<g ref="char:EOLhyphen"/>ed with Plottings, open Violences, and Rebellions, besides a formidable Invasion, from the swelling Greatness and Power of <hi>Spain;</hi> and yet She overcame them with the Charge of a few Subsidies, Tenths, and Fifteenths upon the Subjects: but had the Revenues of the Crown in those Days been Smugled and Concealed as now they are, which had its Original Beginning and Foundation from the late unhappy Civil Wars in <hi>England,</hi> upon the Mangling and Dividing the Crown Lands, into the Hands of Private Persons, as a Reward for their Rebellion, which hath never since been thorowly Examined, and lookt into, the Charge and Burthen of those Times must have been more Severe upon the Subject; and it is Natural to Mankind, to desire Preservation, and Protection to themselves, and their Religion, Liberty, and Property, with as little Charge as may be: And any Government is the most Complacent, and Delightful to a People, wherein they are not overwhelmed with Taxes, and were the Smuglings and Concealments of the Crown Revenues, and the Fraudulent, and Secret Trusts of Lands, for Maintenance of Jesuits, Popish Priests, and Romish Seminaries, and other Super<g ref="char:EOLhyphen"/>stitious Uses, which by the Laws of the Land are Forfeited to the Crown, Inspected into, the Crown would not only Flourish, and be Advanced to its Antient Gradure, and Dignity; but the Publick Debts of the Na<g ref="char:EOLhyphen"/>tion soon payed, and in time some Duties laid upon the Subjects, to make good the Defects of the Revenues of the Crown, by such Concealments might be laid aside and Suspended.</p>
+            <p>That the Subjects Complain of heavy Taxes, though extreamly Necessary, in respect to the Charges of an Expensive War, which had the Crown its Due, that Burthen would in a great Measure be taken off; besides all which, there are several other Abuses of great Value, done to the Revenue of the Crown, by the Managers thereof; which if Inspected into, would manifestly appear.</p>
+            <p>That the Taxes <hi>de Anno in Annum</hi> Raised for Maintaining the War against <hi>France,</hi> were not properly a Gift to the Crown, but are laid out for Defraying the Charges of the War, and therefore that should be no Argu<g ref="char:EOLhyphen"/>ment whereby to take away or Diminish these Concealed Estates, which are part of the Flower of the Crown.</p>
+            <p>Now upon the whole, it is most humbly Propounded and Submitted, since these Concealments were so lately in Charge, as in the Reign of King <hi>Charles</hi> II. That instead of Leave to be given, to bring in a Bill for Quieting the Subject, against all pretences of Concealment whatsoever; That a Bill should be brought in, to Inspect the said Concealments, and all other Abuses, and Wrongs done to the Crown, whereby its Right is any ways Diminished or Lessened, and to Nominate Commissioners to Inspect the same, and that the said Commissioners have Power to send for Books, Papers, and Writings, relating to the Discovery thereof, and to Summon in, and Examine Persons before them, touching the same; and to give <hi>Premiums,</hi> and Incourage<g ref="char:EOLhyphen"/>ments, to such of his Majesties Subjects as shall Discover the same, according to each Persons Respective Dis<g ref="char:EOLhyphen"/>covery: And to do this in a Parliamentary way, will take away all Clamours, and is but Common Right, done between the Subject and the Crown.</p>
+            <closer>
+               <hi>All which is most humbly Submitted,</hi> &amp;c.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
